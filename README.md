@@ -1,6 +1,6 @@
-# Zabbix Twilio
+# Base Twilio
 
-## SMS Installation
+## SMS Installation for Zabbix
 
 ### Setup sms.sh
 1. Copy `sms.sh` to the path specified by the `alertscriptspath` field in your `zabbix-server.conf`.
